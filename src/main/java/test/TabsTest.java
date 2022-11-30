@@ -10,7 +10,7 @@ import org.testng.annotations.Test;
 import static framework.driver.DriverUtil.getCountOfHandles;
 
 public class TabsTest extends BaseTest{
-    private static final Logger LOG = Logger.getLogger(CheckMainPageTest.class);
+    private static final Logger LOG = Logger.getLogger(TabsTest.class);
     private static final String LOGIN = TEST_DATA_PROPERTIES.getProperty("login");
     private static final String PASSWORD = TEST_DATA_PROPERTIES.getProperty("password");
     private static final int TABS_COUNT = Integer.parseInt(TEST_DATA_PROPERTIES.getProperty("tabs.count"));
