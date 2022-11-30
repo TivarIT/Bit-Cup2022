@@ -1,7 +1,12 @@
 # Bit-Cup2022
-PageObject pattern + singleton pattern + browser factory pattern (chrome, edge, firefox)
+Some features:  
+PageObject pattern;  
+Singleton pattern;  
+Browser factory pattern (chrome, edge, firefox);  
+Logging;  
+Test data files (.properties);  
 
-**Test scenario(bold)**
+**Test scenario**
 ____
 Test #1 Open Swag Labs and log in  
 Expected result: after authorization Products Page will open.  
