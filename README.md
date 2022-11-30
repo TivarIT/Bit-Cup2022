@@ -1,10 +1,10 @@
-# Bit-Cup2022
-Some features:  
-PageObject pattern;  
-Singleton pattern;  
-Browser factory pattern (chrome, edge, firefox);  
-Logging;  
-Test data files (.properties);  
+# Bit-Cup2022 Timofey Novik
+**Some features:**  
+1. PageObject pattern;  
+2. Singleton pattern;  
+3. Browser factory pattern (chrome, edge, firefox);  
+4. Logging;  
+5. Test data files (.properties);  
 
 **Test scenario**
 ____
